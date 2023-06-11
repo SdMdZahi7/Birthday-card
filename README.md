@@ -56,12 +56,12 @@ Use paragraph tag to disply the personalised greeting. Add an image element to d
     </body>
 </html>
 ~~~
-OUTPUT:
+## OUTPUT:
 ### Background image:
 ![WhatsApp Image 2023-06-11 at 19 15 13](https://github.com/SdMdZahi7/Birthday-card/assets/94187572/559b89e8-8c4a-40db-b315-1cada3e810d8)
 ## Final Output:
 ![WhatsApp Image 2023-06-11 at 19 15 13](https://github.com/SdMdZahi7/Birthday-card/assets/94187572/4d6ed173-a8af-401f-8aba-d2e2c66b46a2)
 
 
-RESULT
+## RESULT
 So, a birthday card is created using CSS and HTML.
